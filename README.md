@@ -1,6 +1,6 @@
 # Battle of Aradathia
 
-🏰 Welcome to Battle of Aradathia
+## 🏰 Welcome to Battle of Aradathia
 
 Battle of Aradathia is an immersive RPG set in a fantasy world filled with adventure, enemies, and fun quests. Build your character, interact with NPCs, engage in thrilling combat, and save Aradathia from dangerous creatures!
 
