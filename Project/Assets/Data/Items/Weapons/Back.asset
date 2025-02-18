@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 538c868551df246428921b90ce523cd2, type: 3}
+  m_Name: Back
+  m_EditorClassIdentifier: 
+  itemIcon: {fileID: 21300000, guid: 612fb86f4f9e54f4f9e2b397a7cc52e8, type: 3}
+  itemName: Back
+  id: Back
+  modelPrefab: {fileID: 1056416218193148, guid: 001c79d88f696944684a91cd13c6a1a3, type: 3}
+  isUnarmed: 0
+  itemType: 8
+  Right_Hand_Idle: 
+  Left_Hand_Idle: 
+  Th_Idle: 
+  OH_Light_Attack_1: 
+  OH_Light_Attack_2: 
+  OH_Light_Attack_3: 
+  OH_Heavy_Attack_1: 
+  TH_Light_Attack_1: 
+  TH_Heavy_Attack_1: 
+  baseStamina: 0
+  lightAttackMultiplier: 0
+  heavyAttackMultiplier: 0
