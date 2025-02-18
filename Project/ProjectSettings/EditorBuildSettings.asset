@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: d5673b812d5fa6d4abc53777e9b3fa6b
+  - enabled: 1
+    path: Assets/Scenes/Character Creater.unity
+    guid: b374203e00dbbe54e8d77fa5e41b64da
+  - enabled: 1
+    path: Assets/Scenes/MainWorld.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Church_Inside.unity
+    guid: 21c6a0ffe98297b448b4beffe65e6c5d
+  - enabled: 1
+    path: Assets/Scenes/Blacksmith.unity
+    guid: d26b53ed51cae5d4bad830e0686a0ba5
+  - enabled: 1
+    path: Assets/Scenes/Dungeon.unity
+    guid: 4384cf89ce3604649927a3439fd16581
+  - enabled: 1
+    path: Assets/Scenes/PlayerHome.unity
+    guid: 81d90287c48698e4081b852a8e54c116
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: 342cc80b8ed1f574d84708de1407e85d, type: 2}
