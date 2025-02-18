@@ -1,0 +1,121 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 21cb495ffbca0404d878640680165899, type: 3}
+  m_Name: Bushes
+  m_EditorClassIdentifier: 
+  prefabList: []
+  prefabData:
+  - prefab: {fileID: 1644641572348816, guid: d6660cac033867643a649f4255fa8e4d, type: 3}
+    selected: 1
+  - prefab: {fileID: 1532667504379520, guid: dbbffa6287a94b24c80e0839e6696216, type: 3}
+    selected: 1
+  - prefab: {fileID: 1467718062152118, guid: 7df36f4afc1dd884e81156cd2cb6545d, type: 3}
+    selected: 1
+  - prefab: {fileID: 1832163050889860, guid: c6437f01ea9e6154f8bee15a6eec78d8, type: 3}
+    selected: 1
+  - prefab: {fileID: 1814772297973644, guid: 7b324b148b509104cb0f42a02b6b4b78, type: 3}
+    selected: 1
+  - prefab: {fileID: 1850380863881366, guid: eb570ee4ce047744fbfdd57ab0c57b44, type: 3}
+    selected: 1
+  - prefab: {fileID: 1479394337342350, guid: 608213fc5c7ac4d4f98850704ec8906c, type: 3}
+    selected: 1
+  - prefab: {fileID: 1605196097662766, guid: bb290a0b717f64745a51c2cb09e3f113, type: 3}
+    selected: 1
+  - prefab: {fileID: 1131201197097770, guid: 6cc10fda75a465b4c88a8c85b969dff6, type: 3}
+    selected: 1
+  - prefab: {fileID: 1758111632403344, guid: 60f05752946316d429c9d510b1ad6c02, type: 3}
+    selected: 1
+  - prefab: {fileID: 1966522617160436, guid: 9bc7d92e5ed8a9e46add7f7fd0045c16, type: 3}
+    selected: 1
+  - prefab: {fileID: 1325243728563266, guid: 720c6591b996f3b45b844519425924b9, type: 3}
+    selected: 1
+  - prefab: {fileID: 1154308530469040, guid: 2c1b8ba858adad2478af52d208187ae6, type: 3}
+    selected: 1
+  - prefab: {fileID: 1609270425926636, guid: 9020d2933ec6c0544965ea4b12952c42, type: 3}
+    selected: 1
+  - prefab: {fileID: 1209787234085090, guid: e4d35fc487ff62e45b34ae45f80c88fc, type: 3}
+    selected: 1
+  - prefab: {fileID: 1560461424881576, guid: 11d0d688b29309541acbbbf9497b8b78, type: 3}
+    selected: 1
+  - prefab: {fileID: 1357747242490952, guid: d8ab54d35fe81704b8af3b42616763a2, type: 3}
+    selected: 1
+  paintType: 0
+  brushSize: 12.88
+  minBrushSize: 0.1
+  maxBrushSize: 20
+  paintDeltaDistance: 2.814
+  maxPaintDeltaDistance: 3
+  minPaintDeltaDistance: 0.1
+  prefabsPerStroke: 7
+  maxprefabsPerStroke: 20
+  minprefabsPerStroke: 1
+  spawnHeight: 10
+  addRigidbodyToPaintedPrefab: 1
+  physicsIterations: 100
+  checkLayer: 0
+  checkTag: 0
+  checkSlope: 0
+  ignorePaintedPrefabs: 0
+  ignoreTriggers: 1
+  chainPivotAxis: 0
+  chainDirection: 0
+  requiredTagMask: 0
+  requiredLayerMask: 0
+  minRequiredSlope: 0
+  maxRequiredSlope: 0
+  prefabOriginOffset: {x: 0, y: 0, z: 0}
+  prefabRotationOffset: {x: 0, y: 0, z: 0}
+  draggingAction: 1
+  rotationAxis: 0
+  rotationSensitivity: 10
+  parentingStyle: 2
+  parent: {fileID: 0}
+  rotateToMatchSurface: 0
+  rotateSurfaceDirection: 0
+  randomizeRotation: 1
+  minXRotation: 0
+  maxXRotation: 0
+  minYRotation: 0
+  maxYRotation: 180
+  minZRotation: 0
+  maxZRotation: 0
+  scaleType: 0
+  scaleApplicationType: 0
+  minScale: 1
+  maxScale: 1
+  minXScale: 1
+  maxXScale: 1
+  minYScale: 1
+  maxYScale: 1
+  minZScale: 1
+  maxZScale: 1
+  parentList: []
+  eraseBrushSize: 1
+  minEraseBrushSize: 0.1
+  maxEraseBrushSize: 20
+  eraseType: 0
+  checkLayerForErase: 0
+  checkTagForErase: 0
+  checkSlopeForErase: 0
+  mustBeSelectedInBrush: 0
+  requiredTagMaskForErase: 0
+  requiredLayerMaskForErase: 0
+  minRequiredSlopeForErase: 0
+  maxRequiredSlopeForErase: 0
+  eraseDetection: 0
+  paintBrushHotKey: 112
+  paintBrushHoldKey: 1
+  removeBrushHotKey: 306
+  removeBrushHoldKey: 1
+  disableBrushHotKey: 105
+  disableBrushHoldKey: 1
+  hideToolsWarnings: 0
